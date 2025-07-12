@@ -27,3 +27,8 @@ Your age in seconds : 693792000 s
 
 [@Y0U$EF](https://github.com/YOUSEF-ALBATHALY)
 
+
+<p align="center">
+  <img src="[رابط_الصورة_اللي_نسخته](https://github.com/YOUSEF-ALBATHALY/age-in-cpp/blob/main/ChatGPT%20Image%20Jul%2012%2C%202025%2C%2002_27_11%20PM.png
+)" alt="Your Age In C++ Banner" width="100%">
+</p>
