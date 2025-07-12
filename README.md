@@ -19,7 +19,7 @@ Your age in seconds : 693792000 s
 
 ## About
 
-**Note:** I'm currently a beginner learning programming basics through the [ElzeroWebSchool : Fundamentals of Programming with C++]([https://youtu.be/XDUhyYxKs2U?si=w30Xed3zi-0wnrP](https://youtu.be/XDuWyYxksXU?si=_WV3_MT4gRwogEd_)) course.
+**Note:** I'm currently a beginner learning programming basics through the [ElzeroWebSchool : Fundamentals of Programming with C++]([https://youtu.be/XDuWyYxksXU?si=_WV3_MT4gRwogEd_]) course.
 
 ---
 
